@@ -1,0 +1,68 @@
+.prvi
+{
+    background-color: blue;
+    height: 50px;
+    width: auto;
+}
+
+
+.drugi
+{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+
+    padding: 50px;
+
+}
+
+.relative1
+{
+    background-color: #287AE6;
+    position: relative;
+
+    width: 300px;
+    height: 300px;
+}
+
+.relative2
+{
+    background-color: aqua;
+    position: relative;
+    width: 300px;
+    height: 300px;
+
+    top: -200px;
+    left: 30px;
+}
+
+.footer
+{
+    background-color: green;
+    height: 50px;
+    width: 70%;
+
+    position: fixed;
+    bottom: 0;
+
+
+
+}
+
+.par1, .par2
+{
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+
+.par1
+{
+    background-color: blueviolet;
+}
+
+.par2
+{
+    background-color: darkgreen;
+}

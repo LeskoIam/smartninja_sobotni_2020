@@ -1,0 +1,21 @@
+div
+{
+    color: blue;
+}
+
+
+.zelen
+{
+    color: green;
+    border: red solid 1px;
+}
+
+.zelen:hover
+{
+    border: black dotted 3px;
+}
+
+#moder
+{
+    color: blue;
+}
